@@ -5,7 +5,7 @@ This Arduino project uses a DHT22 sensor to measure local temperature and humidi
 
 ## Features
 - Measure and display local temperature and humidity using a DHT22 sensor.
-- Connect to WiFi and fetch current weather data from the OpenWeatherMap API.
+- Connect to WiFi and fetch current weather data from the OpenWeatherMap API, https://openweathermap.org/api.
 - Output local and API weather data to the Serial Monitor.
 - Modular code structure with functions for better readability and maintainability.
 
